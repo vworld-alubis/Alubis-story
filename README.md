@@ -1,4 +1,4 @@
-# AlubisAsSoftware
+# Alubis-meta
 外から見たアルビス。
 
 * [ソフトウェアとしてのアルビス](./AlubisAsSoftware.md)
