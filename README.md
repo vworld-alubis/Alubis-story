@@ -1,5 +1,5 @@
 # Alubis-meta
-外から見たアルビス
+メタアルビス
 
 * [ソフトウェアとしてのアルビス](./AlubisAsSoftware.md)
 * [シミュレーションとしてのアルビス](./AlubisAsSimulation.md)
