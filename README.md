@@ -1,5 +1,3 @@
-# Alubis-meta
-メタアルビス
+# Alubis-stories
+基礎となるシナリオ群。
 
-* [ソフトウェアとしてのアルビス](./AlubisAsSoftware.md)
-* [シミュレーションとしてのアルビス](./AlubisAsSimulation.md)
